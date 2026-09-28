@@ -1,0 +1,8 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Custom styling tambahan jika diperlukan */
+body {
+    -webkit-font-smoothing: antialiased;
+}
